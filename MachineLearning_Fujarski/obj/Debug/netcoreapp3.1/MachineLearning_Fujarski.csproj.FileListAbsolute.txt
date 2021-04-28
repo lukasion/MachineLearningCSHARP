@@ -1,0 +1,13 @@
+C:\Users\overc0de\Desktop\MachineLearning\MachineLearning_Fujarski\MachineLearning_Fujarski\bin\Debug\netcoreapp3.1\MachineLearning_Fujarski.exe
+C:\Users\overc0de\Desktop\MachineLearning\MachineLearning_Fujarski\MachineLearning_Fujarski\bin\Debug\netcoreapp3.1\MachineLearning_Fujarski.deps.json
+C:\Users\overc0de\Desktop\MachineLearning\MachineLearning_Fujarski\MachineLearning_Fujarski\bin\Debug\netcoreapp3.1\MachineLearning_Fujarski.runtimeconfig.json
+C:\Users\overc0de\Desktop\MachineLearning\MachineLearning_Fujarski\MachineLearning_Fujarski\bin\Debug\netcoreapp3.1\MachineLearning_Fujarski.runtimeconfig.dev.json
+C:\Users\overc0de\Desktop\MachineLearning\MachineLearning_Fujarski\MachineLearning_Fujarski\bin\Debug\netcoreapp3.1\MachineLearning_Fujarski.dll
+C:\Users\overc0de\Desktop\MachineLearning\MachineLearning_Fujarski\MachineLearning_Fujarski\bin\Debug\netcoreapp3.1\MachineLearning_Fujarski.pdb
+C:\Users\overc0de\Desktop\MachineLearning\MachineLearning_Fujarski\MachineLearning_Fujarski\obj\Debug\netcoreapp3.1\MachineLearning_Fujarski.csprojAssemblyReference.cache
+C:\Users\overc0de\Desktop\MachineLearning\MachineLearning_Fujarski\MachineLearning_Fujarski\obj\Debug\netcoreapp3.1\MachineLearning_Fujarski.AssemblyInfoInputs.cache
+C:\Users\overc0de\Desktop\MachineLearning\MachineLearning_Fujarski\MachineLearning_Fujarski\obj\Debug\netcoreapp3.1\MachineLearning_Fujarski.AssemblyInfo.cs
+C:\Users\overc0de\Desktop\MachineLearning\MachineLearning_Fujarski\MachineLearning_Fujarski\obj\Debug\netcoreapp3.1\MachineLearning_Fujarski.csproj.CoreCompileInputs.cache
+C:\Users\overc0de\Desktop\MachineLearning\MachineLearning_Fujarski\MachineLearning_Fujarski\obj\Debug\netcoreapp3.1\MachineLearning_Fujarski.dll
+C:\Users\overc0de\Desktop\MachineLearning\MachineLearning_Fujarski\MachineLearning_Fujarski\obj\Debug\netcoreapp3.1\MachineLearning_Fujarski.pdb
+C:\Users\overc0de\Desktop\MachineLearning\MachineLearning_Fujarski\MachineLearning_Fujarski\obj\Debug\netcoreapp3.1\MachineLearning_Fujarski.genruntimeconfig.cache
